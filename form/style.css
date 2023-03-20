@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 540px;
+    background: linear-gradient(135deg,#ff105f,#ffad06);
+}
+
+.main{
+    background: linear-gradient(135deg,#ff105f,#ffad06);
+    width: 450px;
+    height: 540px;
+    background: linear-gradient(135deg,#ff105f,#ffad06);
+margin-left: 430px;
+margin-top: 110px;
+border-radius: 20px;
+border-radius: 20px;box-shadow: -5px -5px 15px rgba(255,255,255,0.1),5px 5px 15px rgba(255,255,255,0.35),
+inset -5px -5px 15px rgba(255,255,255,0.1),
+inset 5px 5px 15px rgba(0,0,0,0.35)
+
+
+}
+span p{
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+.fn{
+    font-size: 17px;
+}
+.new1{
+    margin-left: 60px;
+    color: white;
+}
+.new2{
+    margin-left: 60px;
+    color: white;
+}
+.new3{
+    margin-left: 60px;
+    color: white;
+}
+.new4{
+    margin-left: 60px;
+    color: white;
+}
+.new5{
+    margin-left: 60px;
+    color: white;
+}
+#gender1{
+    margin-left: 20px;
+    margin-right: 5px;
+
+}
+#gender115{
+    margin-left: 20px;
+    margin-right: 5px;
+}
+#gender{
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.new6{
+    margin-left: 50px;
+    color: white;
+}
+  .new6 input[type=radio] {
+    border: 1px solid blue;
+    padding: 0.5em;
+    -webkit-appearance: none;
+  }
+
+  #gender2{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+#gender3{
+    margin-left: 20px;
+    margin-right: 10px;
+}  #gender4{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+  .new6 input[type=radio]:checked {
+    background: url(data:image/gif;base64,R0lGODlhAQABAPAAAP///////yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==) no-repeat center center;
+    background-size: 9px 9px;
+  }
+  
+  input[type=radio]:focus {
+    outline-color: transparent;
+  }
+  
+  .new7{
+    color: white;  
+     margin-left: 60px;
+  }
+  .main2{
+    margin-top: 40px;
+  }
+  .new11{
+    margin-left: 60px;
+    color: white;
+  }
+ #fname22{
+    width: 150px;
+ }
+ .new7{
+    margin-left: 170px;
+    width: 40px;
+    background: linear-gradient(135deg,#ff105f,#ffad06);
+ }
+ .new7 input{
+    width: 90px;
+    height: 33px;
+    background: linear-gradient(135deg,#ff105f,#ffad06);
+ }
